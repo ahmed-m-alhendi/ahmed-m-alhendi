@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Ahmed 👋
 
-<!--
-**ahmed-m-alhendi/ahmed-m-alhendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python developer interested in Artificial Intelligence and
+building practical software through hands-on projects.
 
-Here are some ideas to get you started:
+## 🧠 Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Artificial Intelligence
+- Data Science
+- Machine Learning
+
+## 🛠️ Technologies
+
+- Python
+- NumPy
+- Pandas
+- Git & GitHub
+
+## 🚀 Projects
+
+### Personal Expense Tracker
+A Python console application for managing personal expenses.
+
+More projects coming soon...
+
+## 🎯 Goal
+
+To build practical AI and Python projects, continuously improve
+my problem-solving skills, and eventually work professionally
+in the AI field.
+
+## 📫 Connect with me
+- Email: ahmad.m.alhedny@gmail.com
