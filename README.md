@@ -1,34 +1,55 @@
-# Hi, I'm Ahmed 👋
+# Hi, I'm Ahmed! 👋
 
-I'm a Python developer interested in Artificial Intelligence and
-building practical software through hands-on projects.
+### AI & Data Science Student | Python Developer
 
-## 🧠 Focus
+I'm an Artificial Intelligence and Data Science student passionate about programming, problem-solving, and turning ideas into practical applications.
 
-- Python
-- Artificial Intelligence
-- Data Science
-- Machine Learning
+I enjoy learning new technologies, building projects, and applying mathematical and computational concepts to real-world problems.
 
-## 🛠️ Technologies
+## 🚀 What I'm Interested In
 
-- Python
-- NumPy
-- Pandas
-- Git & GitHub
+- Artificial Intelligence & Machine Learning
+- Data Science and Data Analysis
+- Python Development
+- Data Structures & Algorithms
+- Mathematical Computing
 
-## 🚀 Projects
+## 🛠️ Technologies & Tools
 
-### Personal Expense Tracker
-A Python console application for managing personal expenses.
+- **Languages:** Python
+- **Data Science:** NumPy, Pandas
+- **Tools:** Git, GitHub
+- **Currently Learning:** Statistics, algorithms, and the foundations of Machine Learning
 
-More projects coming soon...
+## 📂 Featured Projects
 
-## 🎯 Goal
+### 1. Smart Text Analyzer
+A Python terminal application that uses different data structures to perform text analysis and processing.
 
-To build practical AI and Python projects, continuously improve
-my problem-solving skills, and eventually work professionally
-in the AI field.
+[View Repository](https://github.com/ahmed-m-alhendi/smart-text-analyzer)
 
-## 📫 Connect with me
-- Email: ahmad.m.alhedny@gmail.com
+### 2. Personal Expense Tracker
+A Python application for managing expenses, filtering transactions, and tracking spending using JSON persistence.
+
+[View Repository](https://github.com/ahmed-m-alhendi/Personal-Expense-Tracker)
+
+### 3. Data Science Final Project
+An academic project applying Python and data science concepts to a practical dataset.
+
+[View Repository](https://github.com/ahmed-m-alhendi/data-science-final-project)
+
+## 🎯 My Current Goals
+
+- Build practical projects that demonstrate my technical skills.
+- Strengthen my understanding of data structures and algorithms.
+- Improve my data analysis and problem-solving abilities.
+- Develop a strong foundation in Artificial Intelligence and Machine Learning.
+- Continuously improve my software development practices.
+
+## 📫 Let's Connect
+
+Feel free to explore my repositories, share feedback, or collaborate on interesting projects!
+
+---
+
+*Learning, building, and improving one project at a time.*
